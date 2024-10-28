@@ -19,6 +19,18 @@
         "test": "jest",
         "coverage": "jest --coverage"
     },
+    "private": false,
+    "dependencies": {
+        "@types/lodash-es": "4.17.12",
+        "dayjs": "1.11.13",
+        "easycopyjs": "^1.0.2",
+        "lodash-es": "4.17.21"
+    },
+    "peerDependencies": {
+        "@types/lodash-es": "4.17.12",
+        "dayjs": "1.11.13",
+        "lodash-es": "4.17.21"
+    },
     "devDependencies": {
         "@babel/core": "^7.25.2",
         "@babel/preset-env": "^7.25.4",
@@ -41,18 +53,5 @@
         "prettier": "3.3.3",
         "ts-node": "^10.9.2",
         "typescript": "^5.5.4"
-    },
-    "private": false,
-    "dependencies": {
-        "@types/lodash-es": "4.17.12",
-        "dayjs": "1.11.13",
-        "easycopyjs": "^1.0.2",
-        "lm-easyutils": "file:",
-        "lodash-es": "4.17.21"
-    },
-    "peerDependencies": {
-        "@types/lodash-es": "4.17.12",
-        "dayjs": "1.11.13",
-        "lodash-es": "4.17.21"
     }
 }
