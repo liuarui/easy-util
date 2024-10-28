@@ -1,5 +1,5 @@
 {
-    "name": "lm-easyutils",
+    "name": "@ezcoding/easyutils",
     "version": "0.2.5",
     "description": "easy utils ",
     "main": "main.js",
