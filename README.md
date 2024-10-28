@@ -1,8 +1,8 @@
-# lm-easyutils
+# @ezcoding/easyutils
 
-![NPM Version](https://img.shields.io/npm/v/lm-easyutils)
+![NPM Version](https://img.shields.io/npm/v/@ezcoding/easyutils)
 [![Coverage Status](https://coveralls.io/repos/github/liuarui/easyutils/badge.svg)](https://coveralls.io/github/liuarui/easyutils)
-![NPM Downloads](https://img.shields.io/npm/dy/lm-easyutils)
+![NPM Downloads](https://img.shields.io/npm/dy/@ezcoding/easyutils)
 ![GitHub last commit](https://img.shields.io/github/last-commit/liuarui/easyutils)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/liuarui/easyutils)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/liuarui/easyutils)
